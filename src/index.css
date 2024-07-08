@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+main {
+  min-height: 90vh;
+}
+
+body.dark {
+  background-color: #1a202c; /* dark background color */
+  color: #dde0e6; /* dark text color */
+}
