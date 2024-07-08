@@ -1,1 +1,1 @@
-export const Url = 'http://localhost:8000'
+export const Url = 'https://ecom-backend-t8yu.onrender.com'
